@@ -1,0 +1,1 @@
+`Near-reltime webcam image dithering in 5 lines using existing tools.`
